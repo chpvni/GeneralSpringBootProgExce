@@ -26,6 +26,7 @@
                 <sonar.login>admin</sonar.login>
                 <sonar.password>Chpvni@1611</sonar.password>
      
+		
 	</properties>
 
 	<dependencies>
