@@ -24,7 +24,7 @@
 		<java.version>1.8</java.version>
                 <sonar.host.url>http://20.197.16.58:9000</sonar.host.url>
                 <sonar.login>admin</sonar.login>
-                <sonar.password>Chpvni@1611</sonar.password>
+                <sonar.password>pavani123</sonar.password>
      
 		
 	</properties>
